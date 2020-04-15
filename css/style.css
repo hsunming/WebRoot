@@ -1,0 +1,17 @@
+body {
+    font-family: verdana;
+    background-color: lightblue;
+    text-align: center;
+}
+
+img {
+    border-radius: 6px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+  font-size: 20px;
+}
